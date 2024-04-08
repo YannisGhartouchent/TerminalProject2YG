@@ -1,5 +1,5 @@
 ## Lancer test
 # Utiliser le test
 Pour essayer
-#Voir les resultats
+#Voir les résultats
 Test resultat
